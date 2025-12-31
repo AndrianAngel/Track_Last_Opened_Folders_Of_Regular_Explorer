@@ -145,7 +145,7 @@ Made with ❤️ for Windows Explorer power users
 📌  🏝️ Some Screenshots (OverView) 🏝️
 
 
-
+---
 
 
 📣 Full Gui 
@@ -156,12 +156,16 @@ Made with ❤️ for Windows Explorer power users
 
 
 
+---
+
 🌻 Resizable Window Pic1 🌻
 
 
 
 ![A1 Settings](Images/A1.png)
 
+
+---
 
 
 📣 Resizable Window Pic2 📣
@@ -171,6 +175,8 @@ Made with ❤️ for Windows Explorer power users
 ![A2 Settings](Images/A2.png)
 
 
+---
+
 
 👉 Reopen Multiselected Items 👈
 
@@ -179,9 +185,14 @@ Made with ❤️ for Windows Explorer power users
 ![A3 Settings](Images/A3.png)
 
 
+---
+
 
 ❄️ Ability to extend the Max History (20 by default) ❄️
 
 
 
-![A4 Settings](Images/A4.png
+![A4 Settings](Images/A4.png)
+
+---
+
