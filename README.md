@@ -196,3 +196,56 @@ Made with ❤️ for Windows Explorer power users
 
 ---
 
+---
+
+📌 UPDATE - Explorer History Tracker - Enhanced V2
+A Windows AutoHotkey script that tracks and manages your Windows Explorer folder history, with intelligent reopening capabilities.
+
+---
+
+🌿 Key Features 🌿
+
+---
+
+🔄 Browser-Style Folder Reopening (Ctrl+Shift+T)
+
+---
+
+Reopen recently closed folders one by one, just like browser tabs! Press the hotkey multiple times to cycle backward through your history:
+First press → reopens most recent folder
+Second press → reopens second most recent
+And so on...
+
+---
+
+Important behavior: When you reach the end of your history (Item 20), pressing Ctrl+Shift+T again will cycle back to Item 1 and open it as a new window - even if that folder is already open elsewhere. This circular navigation is designed for quickly accessing folders from your history list, not for switching between existing windows (use Alt+Tab for that). Just be aware you're looping back and potentially creating duplicate windows of older folders.
+
+---
+
+📂 Forced Windows Explorer Support
+
+---
+
+The script always opens folders in native Windows Explorer (explorer.exe), even if you have a different default file manager installed (like Directory Opus, Total Commander, etc.). This ensures consistent behavior and reliable window tracking regardless of your system's file manager preferences.
+
+---
+
+📊 History Management GUI (Ctrl+Shift+H)
+
+- View last 20 closed Explorer windows with timestamps
+- Double-click or select items to reopen
+- Dark-themed interface
+- Automatically prevents duplicate entries in history
+
+---
+
+🔍 Intelligent Window Detection
+
+The script tracks Explorer windows through multiple methods:
+- Shell hook events for real-time detection
+- Polling backup system for reliability
+- Ctrl+Shift+T cycling intentionally allows duplicates for quick access
+
+---
+
+Perfect for power users who frequently navigate multiple folders and want browser-like convenience in Windows Explorer!
