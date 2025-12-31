@@ -141,3 +141,47 @@ This project is open source and available for personal and commercial use.
 Made with ❤️ for Windows Explorer power users  
 
 ---
+
+📌  🏝️ Some Screenshots (OverView) 🏝️
+
+
+
+
+
+📣 Full Gui 
+
+
+
+![A Settings](Images/A.png)
+
+
+
+🌻 Resizable Window Pic1 🌻
+
+
+
+![A1 Settings](Images/A1.png)
+
+
+
+📣 Resizable Window Pic2 📣
+
+
+
+![A2 Settings](Images/A2.png)
+
+
+
+👉 Reopen Multiselected Items 👈
+
+
+
+![A3 Settings](Images/A3.png)
+
+
+
+❄️ Ability to extend the Max History (20 by default) ❄️
+
+
+
+![A4 Settings](Images/A4.png
